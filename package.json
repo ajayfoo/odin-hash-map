@@ -1,0 +1,13 @@
+{
+  "name": "top-project-hash-map",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
